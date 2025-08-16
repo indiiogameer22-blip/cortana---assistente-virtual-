@@ -13,7 +13,8 @@ PALAVRAS_CHAVE = [
     'pesquisar',
     'pesquisa',
     'acerca de',
-    'a respeito de'
+    'a respeito de',
+    'ache' 
 ]
 
 # Função responsável por realizar uma pesquisa no Google ou no YouTube
